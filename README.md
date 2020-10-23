@@ -1,2 +1,3 @@
-# raspberryprojects
-Cool Projects for raspberrypi
+# Setting up Raspberry pi Zero W as a headless server
+
+##
