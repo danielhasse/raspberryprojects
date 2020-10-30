@@ -72,4 +72,4 @@ static routers=192.168.0.1
 static domain_name_servers=192.168.0.1
 ```
  
- 
+ ...Work in progres...
