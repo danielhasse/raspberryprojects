@@ -17,6 +17,8 @@ Setting up a headless server
 6. Go to _"SD Card"_ and _"Choose SD CARD"_ select the card you wish to erase and press _"Write"_
 7. After is finished you will see _"Write Successful"_
 
-## 
+## Create SSH and Wireless Access
 
-
+1. Open File Explorer and navigate to the drive where Raspberry pi OS is.
+2. Create a newfile called SSH with no extensions - This will allow for SSH connections.
+3. Create a newfile called wpa_supplicant.conf
