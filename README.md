@@ -62,7 +62,7 @@ network={
  ```
  sudo nano /etc/dhcpcd.conf
  ```
- 2. Add the following lines in the end of the file
+ 2. Add the following lines in the end of the file  -  Remember to change the ip address to your network ip.
  
  ```
  interface wlan0
